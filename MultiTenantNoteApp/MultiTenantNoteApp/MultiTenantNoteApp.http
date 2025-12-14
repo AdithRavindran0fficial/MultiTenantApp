@@ -1,0 +1,6 @@
+@MultiTenantNoteApp_HostAddress = http://localhost:5284
+
+GET {{MultiTenantNoteApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
